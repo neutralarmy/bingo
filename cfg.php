@@ -6,8 +6,8 @@
 //Discussion Group:- t.me/neutralarmydiscuss
 
 
-//Enter Your Email & Password here
+//Enter Your Bingo Email & Password here
 //Feel free to enter we never store your data
 
-$email = "shashanksidhi27in@gmail.com";
-$password = "shashank27";
+$email = "xxxxxxxxxxxxxxxxxxxxxxxxx";
+$password = "xxxxxxxxxxx";
